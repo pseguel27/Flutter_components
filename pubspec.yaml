@@ -19,6 +19,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  //Se utiliza para cambiar el idioma de la aplicacion
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.15.8
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
