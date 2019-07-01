@@ -19,7 +19,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  //Se utiliza para cambiar el idioma de la aplicacion
   flutter_localizations:
     sdk: flutter
   intl: ^0.15.8
@@ -46,7 +45,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - data/menu_opts.json
+    - data/
     - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
